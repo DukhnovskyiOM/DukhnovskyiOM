@@ -23,7 +23,11 @@
 
 ### ⚙️ Other:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DukhnovskyiOM)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+      <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DukhnovskyiOM&theme=algolia&layout=compact" />
+  </tr>
+</table>
 
 [![codewars](https://www.codewars.com/users/DukhnovskyiOM/badges/micro)](https://www.codewars.com/users/DukhnovskyiOM) 
 
