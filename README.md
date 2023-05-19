@@ -14,7 +14,7 @@
 
 ### I study technology:
 
-<img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" width="75" alt="..."/> <img src="https://polyakovdmitriy.ru/wp-content/uploads/2020/09/Getting-Started-with-NextJS.jpg" width="90" alt="..."/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="nodejs"/
+<img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" width="75" alt="..."/> <img src="https://polyakovdmitriy.ru/wp-content/uploads/2020/09/Getting-Started-with-NextJS.jpg" width="90" alt="..."/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="nodejs"/>
 
 ### 🤝 Connect with me:
 - gmail - dukhnovskyi.om@gmail.com
